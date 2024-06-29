@@ -1,0 +1,6 @@
+100 Karekla 49.99
+200 Grafeio 135.00
+300 Skoupa 9.99
+400 Lambater 29.99
+500 Kados 4.99
+600 Sfougaristra 99.99

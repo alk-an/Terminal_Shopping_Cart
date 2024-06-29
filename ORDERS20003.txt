@@ -1,0 +1,12 @@
+Customer No    : 12
+Customer Name  : 12
+Customer Email : 21
+Order No   : 12
+Order Date : 12
+
+Kwdikos  Perigrafi           Posotita     Timi      Axia
+=======  ===============     ========    ======    ======
+  100    Karekla               7       49.99    349.93
+
+                      Synoliko poso agorwn : 349.93
+                                Metaforika : 0
