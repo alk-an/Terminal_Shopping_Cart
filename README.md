@@ -1,4 +1,4 @@
-# Project ANTIK: Console Order Management System
+# Console Order Management System
 
 A C++ console application designed to manage customer orders and retail inventory. The system reads an available product catalog from a text file, interacts with the user to process purchases, and generates a formatted receipt with total costs and shipping calculations.
 
@@ -45,3 +45,7 @@ Run the compiled executable:
 4. Enter the **Item Code** you want to purchase, followed by the **Quantity**.
 5. Enter `0` when you are finished shopping.
 6. The program confirms the end of the transaction (`...Telos agorwn!`) and automatically generates your receipt in `ORDERS20003.txt`.
+
+<img width="1920" height="1020" alt="Screenshot 2026-09-22 153150" src="https://github.com/user-attachments/assets/c5e478df-67c6-412c-b4d8-bf88b1f1a11a" />
+
+<img width="1920" height="1020" alt="Screenshot 2026-09-22 153237" src="https://github.com/user-attachments/assets/98ba5d63-b0fd-418c-8b49-b5f0e03fc519" />
